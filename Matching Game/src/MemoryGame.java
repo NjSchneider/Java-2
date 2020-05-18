@@ -16,7 +16,7 @@ import javafx.util.Duration;
 
 /**
  *  Developers: Nick Schneider
- *  Program:    Group Project: Matching Game
+ *  Program:    Matching Game
  *  Purpose:    Create a Matching Game using JavaFX
  * 
  *  This Class creates the Pane, Scene, Stage, and fills the Cells
